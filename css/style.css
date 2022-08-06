@@ -38,6 +38,9 @@ header .container div {
   line-height: 2.2;
 }
 @media (max-width: 767px) {
+  header {
+    padding: 50px 50px 120px;
+  }
   header .container {
     justify-content: center;
     gap: 40px;
